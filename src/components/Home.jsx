@@ -32,8 +32,8 @@ useEffect(()=>{
 
 
 return (
+//case is still charging
     <div>
-    //case is still charging
       {loading?
         <div>
           <img className={style.loading_img} src='https://res.cloudinary.com/dvkvyi1dr/image/upload/v1672281070/searcher/99109-loading-unscreen_etzeh3.gif' alt='loading_gif'></img>
