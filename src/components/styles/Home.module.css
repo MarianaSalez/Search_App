@@ -1,0 +1,35 @@
+.container{
+    display: block;
+    padding: 0% 10%;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+}
+
+.Home{
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 39px 0px;
+}
+
+.division_line{
+    margin-top: 20px;
+    color:rgba(217, 217, 217, 1);
+    padding: 0% 10%;
+    height: 1px;
+}
+
+.results_log{
+    display: flex;
+    width: 70%;
+    color: var(--grey-color);
+    text-align: start;
+   
+}
+
+.loading_img{
+    margin-top: 40px;
+    width: 30%;
+    height: 30%;
+}

@@ -1,0 +1,14 @@
+
+body, input{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+
+}
+
+:root{
+  --black-color: #343434;
+  --grey-color:#757575;
+  --white-text:  #FFFFFF;
+  ---border-color: #D9D9D9;
+}

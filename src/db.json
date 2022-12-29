@@ -1,0 +1,365 @@
+{
+    "products": [
+      {
+        "code": 1,
+        "name": "Iphone 11",
+        "description": "Teléfono Iphone 11 con 1 año de uso. Excelentes condiciones. En caja original.",
+        "price": 100000,
+        "image": "http://www.vicionet.com/Vel/418-large_default/apple-iphone-11-128gb-.jpg",
+        "categories": ["Tecnología"]
+      },
+      {
+        "code": 2,
+        "name": "Iphone 12",
+        "description": "Teléfono Iphone 12 con 6 meses de uso. Excelentes condiciones. Esquina golpeada",
+        "price": 130000,
+        "image": "https://www.mylshop.com.ar/wp-content/uploads/2022/03/apple-iphone-12-128gb-verde.jpg",
+        "categories": ["Tecnología"]   },
+      {
+        "code": 3,
+        "name": "Samsung Galaxy A03",
+        "description": "Teléfono Samsung Galaxy A03. Color negro. Con claros signos de uso. Esquina golpeada",
+        "price": 60000,
+        "image": "https://hiperlibertad.vteximg.com.br/arquivos/ids/198093-1000-1000/CELULAR-SAMSUNG-GALAXY-A03-BLACK-32-GB-1-33472.jpg?v=637910122039200000",
+        "categories": ["Tecnología"]
+      },
+      {
+        "code": 4,
+        "name": "Pelota Adidas",
+        "description": "Pelota de futbol Adidas usada. Ideal para los niños",
+        "price": 1500,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_818059-MLA32029904978_082019-O.jpg",
+        "categories": ["Aire Libre"]   },
+      {
+        "code": 5,
+        "name": "Cortina de Baño",
+        "description": "Cortina de baño casi nueva. Sin uso. En paquete cerrado.",
+        "price": 1000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_864346-MLA43543797039_092020-O.webp",
+        "categories": ["Baño"]
+      },
+      {
+        "code": 6,
+        "name": "Cuchilla",
+        "description": "Cuchilla de carnicero 22cm. Usada. Claros signos de uso",
+        "price": 900,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_18666-MLA20158475620_092014-O.jpg",
+        "categories": ["Cocina"]
+      },
+      {
+        "code": 7,
+        "name": "Mesa de comedor.",
+        "description": "Mesa de comedor excelente estado. Con vidrio. Medidas estándar.",
+        "price": 30000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_953048-MLA43731925895_102020-O.jpg",
+        "categories": ["Mesas"]
+      },
+      {
+        "code": 8,
+        "name": "Licuadora",
+        "description": "Licuadora vieja. Está un poco golpeada pero funciona perfectamente.",
+        "price": 2000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_856733-MLA48910147653_012022-V.jpg",
+        "categories": ["Electrodomesticos"]
+      },
+      {
+        "code": 9,
+        "name": "TV samsung 32 usado",
+        "description": "Tv samsung 32 pulgadas. No es smart.",
+        "price": 10000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_743984-MLA51125985902_082022-O.webp",
+        "categories": ["Tecnología"]
+      },
+      {
+        "code": 10,
+        "name": "Llave inglesa",
+        "description": "Llave Inglesa Ajustable de 10 es apta para uso profesional. Características. Modelo: B582",
+        "price": 1999,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_659365-MLA49866707984_052022-O.webp",
+        "categories": ["Herramientas"]
+      },
+      {
+        "code": 11,
+        "name": "Rodillo para pintar",
+        "description": "Rodillo Simil Lana Para Pintar 17 Cm",
+        "price": 500,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_797566-MLA43565663415_092020-O.jpg",
+        "categories": ["Pinturas"]
+      },
+      {
+        "code": 12,
+        "name": "Lona de picnic",
+        "description": "MANTA PLAYERA FAMILIAR. Medidas: 1,40x1,40mts. Fácil de lavar. Material: CORDURA / POLIÉSTER. Con cintas para enrollar y atar",
+        "price": 4000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_761351-MLA29017027737_122018-W.jpg",
+        "categories": ["Aire Libre"]
+      },
+      {
+        "code": 13,
+        "name": "Organizadores de zapatos",
+        "description": "Set de 10 organizadores de Zapatos. 34 cm x 20.5 cm x 12 cm.",
+        "price": 3000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_762944-MLA46413438751_062021-F.webp",
+        "categories": ["Organizadores"]
+      },
+      {
+        "code": 14,
+        "name": "Bolsa Cemento",
+        "description": "Hidralit Cemento De Albañilería 40 Kg. 1 bolsa",
+        "price": 1000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_707165-MLA50891325356_072022-F.webp",
+        "categories": ["Construcción"]
+      },
+      {
+        "code": 15,
+        "name": "Correa de perro",
+        "description": "Correa De Paseo De 3 Mts Coyote Black, Adiestramiento, Perros",
+        "price": 2000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_776347-MLA45533838404_042021-F.webp",
+        "categories": ["Mascotas"]
+      },
+      {
+        "code": 16,
+        "name": "Florero",
+        "description": "Zamibia Florero Vasija Jenna Moderno De Ceramica Mate Jarron",
+        "price": 3000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_833655-MLA51471502111_092022-F.webp",
+        "categories": ["Decoración"]
+      },
+      {
+        "code": 17,
+        "name": "Tester",
+        "description": "Tester Profesional Multimetro Digital Volimetro",
+        "price": 2100,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_953036-MLA51615890382_092022-F.webp",
+        "categories": ["Electricidad"]
+      },
+      {
+        "code": 18,
+        "name": "Lámpara Luna",
+        "description": "Velador Luna Llena Impreso 3d Eco Sustentable Led 16 Colores",
+        "price": 4000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_720693-MLA50184297436_062022-F.webp",
+        "categories": ["Iluminación"]
+      },
+      {
+        "code": 19,
+        "name": "Cortadora de pasto",
+        "description": "Cortadora de pasto eléctrica Philco MJPCD116 con bolsa recolectora de 1300W y 220V verde y negra",
+        "price": 20000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_739493-MLA40098771460_122019-O.webp",
+        "categories": ["Jardín"]
+      },
+      {
+        "code": 20,
+        "name": "Biblioteca",
+        "description": "Biblioteca Moderna Melamina 6001bl 5 Estantes Centro Estant. 60 x 180 x 30",
+        "price": 11000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_847402-MLA51756227882_092022-F.webp",
+        "categories": ["Muebles"]
+      },
+      {
+        "code": 21,
+        "name": "Colchon Sommier 2 plazas Elite",
+        "description": "Sommier Colchón De 2 Plazas 190 X 140 Espuma Alta Densidad - Linea Himalaya. Casi nuevo. 2 meses de uso",
+        "price": 33000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_814146-MLA31132683171_062019-F.webp",
+        "categories": ["Camas"]
+      },
+      {
+        "code": 22,
+        "name": "Ps4 usada + 1 control",
+        "description": "Sony Playstation 4 Pro 1tb. Incluye 1 control original",
+        "price": 60000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_649238-MLA47385331667_092021-F.webp",
+        "categories": ["Tecnología"]
+      },
+      {
+        "code": 23,
+        "name": "Tostadora",
+        "description": "Tostadora Ultracomb TO 4005 roja 220V - 240V",
+        "price": 5000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_778254-MLA40242429179_122019-F.webp",
+        "categories": ["Electrodomesticos"]
+      },
+      {
+        "code": 24,
+        "name": "Heladera Patrick",
+        "description": "Heladera Patrick Diseño HPK151M00 blanca con freezer 388L 220V",
+        "price": 57000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_811382-MLA50770753912_072022-F.webp",
+        "categories": ["Cocina"]
+      },
+      {
+        "code": 25,
+        "name": "Juego muebles de jardín",
+        "description": "Conjunto de balcón Rosalie con apoyabrazos redondo se adapta perfectamente a cada situación. Incluso con espacio limitado, puede crear su propio sueño al aire libre con el juego de ratán Rosalie. Incluye 2 sillones de 1 cuerpo y mesa.",
+        "price": 71000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_978484-MLA51803005154_102022-F.webp",
+        "categories": ["Muebles", "Jardín"]
+      },
+      {
+        "code": 26,
+        "name": "Cuadro Red Rabbit",
+        "description": "Cuadro Red Rabbit Basquiat 100 X 95 Cms Bastidor De Madera",
+        "price": 4300,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_737054-MLA51528687752_092022-F.webp",
+        "categories": ["Decoración"]
+      },
+      {
+        "code": 27,
+        "name": "Cafetera Moulinex Dolce Gusto",
+        "description": "Cafetera Nescafé Moulinex Dolce Gusto Mini Me automática negra para cápsulas monodosis 230V",
+        "price": 15000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_963730-MLA48008616183_102021-F.webp",
+        "categories": ["Electrodomesticos"]
+      },
+      {
+        "code": 28,
+        "name": "PlayStation 2",
+        "description": "Sony Playstation 2 con un joystick incluido!",
+        "price": 10000,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/PS2-Fat-Console-Set.jpg",
+        "categories": ["Tecnología", "Juegos"]
+      },
+     
+      {
+        "code": 31,
+        "name": "Sopapa con cabo madera",
+        "description": "Sopapa con palo de madera en buenas condiciones!",
+        "price": 100,
+        "image": "https://s3.amazonaws.com/storage.wobiz.com/129/129506/images/Large/1603140850_7c9f2ef582e05c58a2b98a5c0d30e6ff.129506.jpeg",
+        "categories": ["Plomería", "Baño"]
+      },
+     
+      {
+        "code": 33,
+        "name": "Corta Tubo",
+        "description": "Corta tubos I.P.S de 20mm a 40mm diametros de origen argentino!",
+        "price": 4300,
+        "image": "https://www.deplano.com.ar/27959-thickbox_default/tijera-corta-tubos-%C3%B8-20-a-%C3%B8-40-ips.jpg",
+        "categories": ["Plomería"]
+      },
+      {
+        "code": 34,
+        "name": "Blem limpia pisos",
+        "description": "No hay nada más impactante que un piso sumamente reluciente usando Blem!",
+        "price": 212,
+        "image": "https://cdn.shortpixel.ai/spai/w_800+q_lossy+ret_img+to_webp/https://norsupply.com.ar/wp-content/uploads/2020/08/0202099-PDA20.jpg",
+        "categories": ["Pisos"]
+      },
+      {
+        "code": 35,
+        "name": "Trapeador de Piso",
+        "description": "Trapeador de piso en condiciones óptimas!!!",
+        "price": 3700,
+        "image": "https://www.soscomputacion.com.ar/12934-large_default/trapeador-de-piso.jpg",
+        "categories": ["Pisos"]
+      },
+      {
+        "code": 36,
+        "name": "Balde Escurridor",
+        "description": "Balde con escurridor integrado para reducir el agua de la mopa de manera práctica",
+        "price": 2500,
+        "image": "https://www.soscomputacion.com.ar/12934-large_default/trapeador-de-piso.jpg",
+        "categories": ["Pisos"]
+      },
+      {
+        "code": 37,
+        "name": "Brocha de Pintura",
+        "description": "Brocha de pintor Paletina triple extra. Paletina profesional de cerda y mango amarillo de polipropileno, para utilizar con todo tipo de pinturas. ",
+        "price": 350,
+        "image": "https://www.bricotex.pro/tienda/5759-thickbox_default/brocha-de-pintor-paletina-triple-extra.jpg",
+        "categories": ["Pinturas", "Paredes"]
+      },
+      {
+        "code": 38,
+        "name": "Balde de Pintura",
+        "description": "Pintura latex acrilico PP-200 piscinas/piletas azul mate balde x 10lts",
+        "price": 8600,
+        "image": "https://www.terralon.com.ar/media/catalog/product/cache/3d1cca9801ae966ced8dcda1a8ad8ec1/s/k/sku-pp20010az.jpg",
+        "categories": ["Pinturas", "Paredes"]
+      },
+      {
+        "code": 39,
+        "name": "Organizador de Productos de Limpieza",
+        "description": "No vayas y vengas por cada producto, te llevas el canasto organizador de productos de limpieza y tenes todo al alcance de la mano. Terminas, lo guardas y hasta la próxima!",
+        "price": 1400,
+        "image": "https://d22fxaf9t8d39k.cloudfront.net/27e06fc7f11021fa6634a4bc85a525b29a21ef62b1f42319275f595d81a394fb1775.jpeg",
+        "categories": ["Organizadores"]
+      },
+      {
+        "code": 40,
+        "name": "Cartuchera",
+        "description": "Cartuchera para organizar tus lápices de manera más prolija! En buenas condiciones!",
+        "price": 1400,
+        "condition": "Claros signos de uso",
+        "image": "https://cdn.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/c/a/cartuchera-hang-loose-negra-208040shader00e-1.jpg",
+        "categories": ["Organizadores"]
+      },
+      {
+        "code": 41,
+        "name": "Módulo Aparador Tv",
+        "description": "No es sólo un mueble de TV es mucho más. Ideal para organizar cualquier otro rincón del salón o comedor, incluso en un home office o dormitorio puede generarse un mobiliario decorado",
+        "price": 65000,
+        "image": "https://www.lvzmuebles.com.ar/wp-content/uploads/2021/02/WhatsApp-Image-2021-02-01-at-11.45.35-AM.jpeg",
+        "categories": ["Muebles"]
+      },
+      {
+        "code": 42,
+        "name": "Mesa Auxiliar Triángulo",
+        "description": "Mesa ratonera auxiliar con patas de madera de paraíso lustradas en color ébano.",
+        "price": 25000,
+        "image": "https://www.lvzmuebles.com.ar/wp-content/uploads/2021/02/WhatsApp-Image-2021-02-01-at-11.45.35-AM.jpeg",
+        "categories": ["Muebles", "Mesas"]
+      },
+      {
+        "code": 43,
+        "name": "Mesa Auxiliar Bote",
+        "description": "Mesa ratonera auxiliar con patas de madera de paraíso lustradas en color natural.",
+        "price": 50000,
+        "image": "https://www.lvzmuebles.com.ar/wp-content/uploads/2021/01/mesa-bote.jpg",
+        "categories": ["Muebles", "Mesas"]
+      },
+      {
+        "code": 44,
+        "name": "Cartas: No lo testeamos ni un poco",
+        "description": "NO LO TESTEAMOS NI UN POCO es la edición argentina del exitoso “”We Didn’t Playtest This At All””. Un juego simple, delirante y totalmente caótico donde tu único objetivo es ganar haciendo que los demás pierdan.",
+        "price": 3000,
+        "image": "https://aquihaydragones.com.ar/wp-content/uploads/2020/02/nltup-500x500.jpg",
+        "categories": ["Juegos"]
+      },
+      {
+        "code": 45,
+        "name": "Tijeras de Podar",
+        "description": "Tijera De Poda Acero de alto rendimiento y durabilidad. Mango ergonómico antideslizante.",
+        "price": 2001,
+        "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/159/765/products/tijera-de-poda-santa-juana-01-a2f0bd25c016503c4f15874169666386-640-0.jpg",
+        "categories": ["Jardín"]
+      },
+      {
+        "code": 143706,
+        "name": "HEADSET GAMER HAVIT HV-H2232 D",
+        "description": "",
+        "price": 3000,
+        "image": "https://res.cloudinary.com/dvkvyi1dr/image/upload/v1672277227/searcher/head1_cpg5v8.jpg",
+        "categories": ["Tecnología"]
+      },
+      {
+        "code": 185756,
+        "name": "HEADSET GAMER NOGA STORMER",
+        "description": "",
+        "price": 2550,
+        "image": "https://res.cloudinary.com/dvkvyi1dr/image/upload/v1672277227/searcher/head2_hqkprp.jpg",
+        "categories": ["Tecnología"]
+      },
+      {
+        "code": 143456,
+        "name": "HEADSET GAMER CONSRICTOR",
+        "description": "",
+        "price": 2700,
+        "image": "https://res.cloudinary.com/dvkvyi1dr/image/upload/v1672277227/searcher/head_3_b3efs6.jpg",
+        "categories": ["Tecnología"]
+      }
+    ]
+  }
