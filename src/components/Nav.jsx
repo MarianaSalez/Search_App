@@ -35,7 +35,6 @@ return(<>
     <button className={style.nav_buttom_search} type='submit' onClick={(e) => handleButton(e)}><FiSearch/> Buscar</button>
      </div>
 
-//Filter chip element
 
   {(searched.length>0)?
   <div className={style.nav_chipSpace}>
