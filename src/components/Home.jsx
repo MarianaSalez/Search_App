@@ -19,8 +19,7 @@ const products= useSelector(state=>state.products)
 const filtered= useSelector(state=>state.filtered)
 const filteredCond= useSelector(state=>state.filteredCond)
 
-
-  //ACTUALIZACION DE PAGINA
+//ACTUALIZACION DE PAGINA
  
 useEffect(()=>{
     setLoading(true)
@@ -34,13 +33,15 @@ useEffect(()=>{
 
 return (
     <div>
-    
+    //case is still charging
       {loading?
         <div>
           <img className={style.loading_img} src='https://res.cloudinary.com/dvkvyi1dr/image/upload/v1672281070/searcher/99109-loading-unscreen_etzeh3.gif' alt='loading_gif'></img>
         <h1 >Loading...</h1>
       </div>
       :
+  //case there´s a product or show all products
+  
         (currentProd.length!==0)?
         <div className={style.container}>
         <div className={style.Home}>
@@ -67,7 +68,7 @@ return (
          </div>
          
             :
-
+  //Can´t find match
             <div>
                 <p>No se encontraron resultados</p>
             </div>
